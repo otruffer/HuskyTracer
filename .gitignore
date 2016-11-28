@@ -1,0 +1,6 @@
+./watch-and-learn.hs
+ciao.png
+*~
+*.swp
+.idea
+.stack-work
