@@ -1,6 +1,6 @@
 module Main where
 
-import Lib
+import Ray
 
 main :: IO ()
-main = someFunc
+main = createImage
